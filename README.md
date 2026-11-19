@@ -9,7 +9,7 @@ This repository is the source for lesson text, printable PDFs, worksheets, and o
 
 | Class / lesson | Topic | Published PDFs |
 | --- | --- | --- |
-| [Agronomy Fundamentals](lessons/agronomy-fundamentals/README.md) | Soil & Compost | [Lesson 1 — Soil Science & Farm Management (PDF)](lessons/agronomy-fundamentals/downloads/part-01-soil-science-and-farm-management.pdf)<br>[Lesson 2 — Soil Chemistry & Cation Exchange (PDF)](lessons/agronomy-fundamentals/downloads/part-02-soil-chemistry-and-cation-exchange.pdf) |
+| [Agronomy Fundamentals](lessons/agronomy-fundamentals/README.md) | Soil & Compost | [Lesson 1 — Soil Science & Farm Management (PDF)](lessons/agronomy-fundamentals/downloads/part-01-soil-science-and-farm-management.pdf)<br>[Lesson 2 — Soil Chemistry & Cation Exchange (PDF)](lessons/agronomy-fundamentals/downloads/part-02-soil-chemistry-and-cation-exchange.pdf)<br>[Lesson 3 — The Soil Food Web (PDF)](lessons/agronomy-fundamentals/downloads/part-03-the-soil-food-web.pdf) |
 <!-- PUBLISHED-LESSONS:END -->
 
 ## Organization

@@ -35,7 +35,7 @@
       "id": "agronomy-fundamentals",
       "title": "Agronomy Fundamentals",
       "topic": "soil-and-compost",
-      "summary": "A multipart introduction to soil science and farm management, with practical field exercises for Michigan’s Upper Peninsula. Begin with soil science, then explore soil chemistry and nutrient retention.",
+      "summary": "A multipart introduction to soil science and farm management for Michigan’s Upper Peninsula. Explore soil formation, chemistry, nutrient retention, and the soil food web, with practical field exercises.",
       "lesson_file": "lessons/agronomy-fundamentals/README.md",
       "downloads": [
         {
@@ -49,19 +49,26 @@
           "file": "lessons/agronomy-fundamentals/downloads/part-02-soil-chemistry-and-cation-exchange.pdf",
           "summary": "Understand cation exchange capacity, nutrient retention, acidity, and lime. Includes a worked pasture soil-test example and a practical plan for sampling separate management zones.",
           "pages": 4
+        },
+        {
+          "label": "Lesson 3 — The Soil Food Web (PDF)",
+          "file": "lessons/agronomy-fundamentals/downloads/part-03-the-soil-food-web.pdf",
+          "summary": "Explore bacteria, fungi, protists, nematodes, and other soil organisms, and follow nutrients from decomposing residues into plants. Connect soil habitat, nitrogen, phosphorus, and potassium cycling with pasture management and the food we harvest.",
+          "pages": 8
         }
       ],
       "audience": "Livestock owners, pasture managers, and beginning agronomy students.",
       "overview": [
         "Understand the soil beneath your farm and how it supports plant growth, animals, and everyday management decisions. This class brings core soil science together with practical observations for Michigan’s Upper Peninsula.",
-        "Begin with Lesson 1, then continue to Lesson 2 on soil chemistry and cation exchange. Each PDF is free to read, download, and print. More lessons will be added as the class grows."
+        "Begin with Lesson 1 on soil science, continue to Lesson 2 on soil chemistry and cation exchange, then explore the soil food web in Lesson 3. Each PDF is free to read, download, and print. More lessons will be added as the class grows."
       ],
       "learning_objectives": [
         "Understand the factors that form soil.",
         "Compare sand, silt, and clay, and distinguish soil texture from structure.",
         "Explain how soil pore space affects water, oxygen, and roots.",
         "Understand the basics of soil pH and nutrient availability.",
-        "Compare contrasting farm sites and use observations and soil tests to guide management."
+        "Compare contrasting farm sites and use observations and soil tests to guide management.",
+        "Explain how soil organisms cycle nutrients and how soil habitat affects their availability to plants."
       ]
     }
   ]

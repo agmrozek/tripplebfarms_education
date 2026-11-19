@@ -10,6 +10,7 @@ A multipart class on soil science and farm management, with practical exercises 
 | --- | --- | --- |
 | 1 | Soil Science & Farm Management | [Lesson 1 PDF](downloads/part-01-soil-science-and-farm-management.pdf) · 4 pages |
 | 2 | Soil Chemistry & Cation Exchange | [Lesson 2 PDF](downloads/part-02-soil-chemistry-and-cation-exchange.pdf) · 4 pages |
+| 3 | The Soil Food Web | [Lesson 3 PDF](downloads/part-03-the-soil-food-web.pdf) · 8 pages |
 
 Additional PDFs will be added here as numbered lessons within this class.
 
@@ -25,8 +26,12 @@ Nutrient retention and soil acidity: cation exchange capacity (CEC), base satura
 
 The worked example uses fictional values for teaching; it is not a soil test or application recommendation for Tripple B Farms.
 
+## Lesson 3: The Soil Food Web
+
+How soil life feeds plants: bacteria, fungi, protists, nematodes, arthropods, and earthworms; decomposition and nutrient cycling; and the habitat that supports these processes. Follows nitrogen from a clover leaf into new grass, connects biology with phosphorus and potassium availability, and explains the difference between crop nutrient uptake and nutrient concentration. Includes examples relevant to Upper Peninsula pastures and further reading.
+
 ## Adding the next lesson
 
-Add the next PDF to downloads/ using a numbered name such as part-03-<topic>.pdf, add it to the table above and this class’s downloads list in the root index.json, then run python3 scripts/update_contents.py from the repository root to validate and refresh the table of contents. Keep all lessons of this class together in this folder. Editable document source files can be placed in a source/ subfolder when supplied.
+Add the next PDF to downloads/ using a numbered name such as part-04-<topic>.pdf, add it to the table above and this class’s downloads list in the root index.json, then run python3 scripts/update_contents.py from the repository root to validate and refresh the table of contents. Keep all lessons of this class together in this folder. Editable document source files can be placed in a source/ subfolder when supplied.
 
 The class is named **Agronomy Fundamentals**. Supplied PDFs retain their original **Agronomy 101** printed headings; document contents have not been edited.
