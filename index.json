@@ -28,6 +28,10 @@
     {
       "id": "honeybees",
       "title": "Honeybees"
+    },
+    {
+      "id": "pasture-and-grazing",
+      "title": "Pasture & Grazing"
     }
   ],
   "lessons": [
@@ -69,6 +73,89 @@
         "Understand the basics of soil pH and nutrient availability.",
         "Compare contrasting farm sites and use observations and soil tests to guide management.",
         "Explain how soil organisms cycle nutrients and how soil habitat affects their availability to plants."
+      ]
+    },
+    {
+      "id": "pasture-and-grazing-fundamentals",
+      "title": "Pasture and Grazing Fundamentals",
+      "topic": "pasture-and-grazing",
+      "summary": "Ten lessons connecting pasture plants, livestock needs, and grazing decisions in Michigan’s Upper Peninsula. Learn to assess paddocks, budget forage, plan rotations, and adapt through the seasons.",
+      "lesson_file": "lessons/pasture-and-grazing-fundamentals/README.md",
+      "downloads": [
+        {
+          "label": "Lesson 1 — How Pasture Plants Grow (PDF)",
+          "file": "lessons/pasture-and-grazing-fundamentals/downloads/part-01-how-pasture-plants-grow.pdf",
+          "summary": "Grass anatomy, photosynthesis, and seasonal growth. Connect leaves, roots, and soil conditions with the way pasture plants develop.",
+          "pages": 2
+        },
+        {
+          "label": "Lesson 2 — What Grows in a Pasture (PDF)",
+          "file": "lessons/pasture-and-grazing-fundamentals/downloads/part-02-what-grows-in-a-pasture.pdf",
+          "summary": "Identify the roles of grasses, clovers, and other broadleaf plants, and understand how grazing and growing conditions change a forage mixture.",
+          "pages": 2
+        },
+        {
+          "label": "Lesson 3 — What Happens After a Bite (PDF)",
+          "file": "lessons/pasture-and-grazing-fundamentals/downloads/part-03-what-happens-after-a-bite.pdf",
+          "summary": "Explore how leaf removal, stored carbohydrates, and repeat grazing affect plant recovery, and why equal rest periods can produce different results.",
+          "pages": 2
+        },
+        {
+          "label": "Lesson 4 — How to Tell When a Paddock Is Ready (PDF)",
+          "file": "lessons/pasture-and-grazing-fundamentals/downloads/part-04-how-to-tell-when-a-paddock-is-ready.pdf",
+          "summary": "Assess plant development, ground firmness, and the residual left after grazing. Recognize wet-ground damage and judge readiness across a paddock.",
+          "pages": 2
+        },
+        {
+          "label": "Lesson 5 — How Much Forage Is Available? (PDF)",
+          "file": "lessons/pasture-and-grazing-fundamentals/downloads/part-05-how-much-forage-is-available.pdf",
+          "summary": "Estimate forage on a dry-matter basis, distinguish standing mass from usable feed, and build a budget that accounts for residual and grazing losses.",
+          "pages": 2
+        },
+        {
+          "label": "Lesson 6 — How Much Forage Does the Herd Need? (PDF)",
+          "file": "lessons/pasture-and-grazing-fundamentals/downloads/part-06-how-much-forage-does-the-herd-need.pdf",
+          "summary": "Estimate herd dry-matter demand and combine it with available forage to calculate herd-days and allocation size using worked examples.",
+          "pages": 2
+        },
+        {
+          "label": "Lesson 7 — Designing Paddocks and a Grazing Rotation (PDF)",
+          "file": "lessons/pasture-and-grazing-fundamentals/downloads/part-07-designing-paddocks-and-a-grazing-rotation.pdf",
+          "summary": "Distinguish stocking rate from stock density, plan fences and water access, and calculate rotation intervals while allowing for changing recovery needs.",
+          "pages": 2
+        },
+        {
+          "label": "Lesson 8 — Grazing Through an Upper Peninsula Year (PDF)",
+          "file": "lessons/pasture-and-grazing-fundamentals/downloads/part-08-grazing-through-an-upper-peninsula-year.pdf",
+          "summary": "Follow spring thaw, summer slowdown, fall stockpiling, and winter feeding, with attention to soil conditions, forage access, and nutrient distribution.",
+          "pages": 2
+        },
+        {
+          "label": "Lesson 9 — Why Pastures Thin Out (PDF)",
+          "file": "lessons/pasture-and-grazing-fundamentals/downloads/part-09-why-pastures-thin-out.pdf",
+          "summary": "Use plant patterns, field history, and soil tests to investigate thinning pasture, then match changes in grazing, traffic, or reseeding to the cause.",
+          "pages": 2
+        },
+        {
+          "label": "Lesson 10 — A Year in the Life of a Grazing Farm (PDF)",
+          "file": "lessons/pasture-and-grazing-fundamentals/downloads/part-10-a-year-in-the-life-of-a-grazing-farm.pdf",
+          "summary": "Bring the class together in a fictional farm’s seasonal forage budget, including changing strip sizes, fall stockpile, and winter hay inventory.",
+          "pages": 2
+        }
+      ],
+      "audience": "Beginning graziers, livestock owners, and homesteaders planning or improving pasture.",
+      "overview": [
+        "Follow pasture from the growth of a grass plant to the feed budget for a whole grazing year. These ten lessons connect soil conditions, forage supply, animal demand, and everyday management decisions in Michigan’s Upper Peninsula.",
+        "Read the lessons in order, or return to individual topics as needed. Each two-page PDF is free to read, download, and print. The course builds on soil concepts introduced in Agronomy Fundamentals.",
+        "Cedar Run Farm is a fictional teaching example. Its herd, acreage, forage values, and calculations illustrate the methods; they are not measurements or recommendations for Tripple B Farms."
+      ],
+      "learning_objectives": [
+        "Explain how pasture plants grow and recover after grazing.",
+        "Recognize how forage species and ground conditions affect paddock readiness.",
+        "Estimate usable forage and herd demand on a dry-matter basis.",
+        "Plan paddock allocations, water access, and recovery intervals.",
+        "Adapt grazing and stored-feed plans through an Upper Peninsula year.",
+        "Investigate pasture thinning and match management changes to the cause."
       ]
     }
   ]
