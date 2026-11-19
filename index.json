@@ -35,27 +35,33 @@
       "id": "agronomy-fundamentals",
       "title": "Agronomy Fundamentals",
       "topic": "soil-and-compost",
-      "summary": "A multipart introduction to soil science and farm management, with practical field exercises for Michigan’s Upper Peninsula. Start with Part 1: Soil Science & Farm Management.",
+      "summary": "A multipart introduction to soil science and farm management, with practical field exercises for Michigan’s Upper Peninsula. Begin with soil science, then explore soil chemistry and nutrient retention.",
       "lesson_file": "lessons/agronomy-fundamentals/README.md",
       "downloads": [
         {
-          "label": "Part 1 — Soil Science & Farm Management (PDF)",
+          "label": "Lesson 1 — Soil Science & Farm Management (PDF)",
           "file": "lessons/agronomy-fundamentals/downloads/part-01-soil-science-and-farm-management.pdf",
-          "summary": "An introduction to soil formation, texture, pore space, pH, and soil biology. Includes a three-site field lab, an observation record, and review questions with answers.",
-          "pages": 3
+          "summary": "How soil forms and varies across a farm, including soil horizons, texture, structure, water, roots, soil biology, and pH. Includes a two-location field observation and a frozen-ground alternative.",
+          "pages": 4
+        },
+        {
+          "label": "Lesson 2 — Soil Chemistry & Cation Exchange (PDF)",
+          "file": "lessons/agronomy-fundamentals/downloads/part-02-soil-chemistry-and-cation-exchange.pdf",
+          "summary": "Understand cation exchange capacity, nutrient retention, acidity, and lime. Includes a worked pasture soil-test example and a practical plan for sampling separate management zones.",
+          "pages": 4
         }
       ],
       "audience": "Livestock owners, pasture managers, and beginning agronomy students.",
       "overview": [
         "Understand the soil beneath your farm and how it supports plant growth, animals, and everyday management decisions. This class brings core soil science together with practical observations for Michigan’s Upper Peninsula.",
-        "Begin with Part 1, then return here as more materials are added to the class. Each PDF is free to read, download, and print."
+        "Begin with Lesson 1, then continue to Lesson 2 on soil chemistry and cation exchange. Each PDF is free to read, download, and print. More lessons will be added as the class grows."
       ],
       "learning_objectives": [
         "Understand the factors that form soil.",
         "Compare sand, silt, and clay, and distinguish soil texture from structure.",
         "Explain how soil pore space affects water, oxygen, and roots.",
         "Understand the basics of soil pH and nutrient availability.",
-        "Make structured observations of soils in pasture, woodland, and open fields."
+        "Compare contrasting farm sites and use observations and soil tests to guide management."
       ]
     }
   ]

@@ -9,7 +9,7 @@ This repository is the source for lesson text, printable PDFs, worksheets, and o
 
 | Class / lesson | Topic | Published PDFs |
 | --- | --- | --- |
-| [Agronomy Fundamentals](lessons/agronomy-fundamentals/README.md) | Soil & Compost | [Part 1 — Soil Science & Farm Management (PDF)](lessons/agronomy-fundamentals/downloads/part-01-soil-science-and-farm-management.pdf) |
+| [Agronomy Fundamentals](lessons/agronomy-fundamentals/README.md) | Soil & Compost | [Lesson 1 — Soil Science & Farm Management (PDF)](lessons/agronomy-fundamentals/downloads/part-01-soil-science-and-farm-management.pdf)<br>[Lesson 2 — Soil Chemistry & Cation Exchange (PDF)](lessons/agronomy-fundamentals/downloads/part-02-soil-chemistry-and-cation-exchange.pdf) |
 <!-- PUBLISHED-LESSONS:END -->
 
 ## Organization
@@ -24,7 +24,7 @@ scripts/validate.py              Check the index and linked files
 scripts/update_contents.py       Update the table of contents from the index
 ```
 
-Only lessons listed in `index.json` are intended for the website. The first class is [Agronomy Fundamentals](lessons/agronomy-fundamentals/README.md), beginning with Part 1: Soil Science & Farm Management. Multiple PDFs for the same class belong together in one class folder and one index entry, with a numbered download for each part. Files committed anywhere in this public repository remain publicly accessible, even if they are not in the index.
+Only lessons listed in `index.json` are intended for the website. The first class is [Agronomy Fundamentals](lessons/agronomy-fundamentals/README.md), beginning with Lesson 1: Soil Science & Farm Management. Multiple PDFs for the same class belong together in one class folder and one index entry, with a numbered download for each part. Files committed anywhere in this public repository remain publicly accessible, even if they are not in the index.
 
 ## Add a lesson
 
