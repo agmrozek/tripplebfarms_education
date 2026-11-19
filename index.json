@@ -30,5 +30,19 @@
       "title": "Honeybees"
     }
   ],
-  "lessons": []
+  "lessons": [
+    {
+      "id": "agronomy-fundamentals",
+      "title": "Agronomy Fundamentals",
+      "topic": "soil-and-compost",
+      "summary": "A multipart introduction to soil science and farm management, with practical field exercises for Michigan’s Upper Peninsula. Start with Part 1: Soil Science & Farm Management.",
+      "lesson_file": "lessons/agronomy-fundamentals/README.md",
+      "downloads": [
+        {
+          "label": "Part 1 — Soil Science & Farm Management (PDF)",
+          "file": "lessons/agronomy-fundamentals/downloads/part-01-soil-science-and-farm-management.pdf"
+        }
+      ]
+    }
+  ]
 }

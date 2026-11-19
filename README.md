@@ -15,7 +15,7 @@ templates/lesson.md               Starting point for a new lesson
 scripts/validate.py              Check the index and linked files
 ```
 
-Only lessons listed in `index.json` are intended for the website. The initial index is empty; no lessons or PDFs have been published yet. Files committed anywhere in this public repository remain publicly accessible, even if they are not in the index.
+Only lessons listed in `index.json` are intended for the website. The first class is [Agronomy Fundamentals](lessons/agronomy-fundamentals/README.md), beginning with Part 1: Soil Science & Farm Management. Multiple PDFs for the same class belong together in one class folder and one index entry, with a numbered download for each part. Files committed anywhere in this public repository remain publicly accessible, even if they are not in the index.
 
 ## Add a lesson
 
