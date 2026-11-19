@@ -20,4 +20,4 @@ The class is named **Agronomy Fundamentals**. This first supplied PDF retains it
 
 ## Adding the next part
 
-Add the next PDF to `downloads/` using a numbered name such as `part-02-<topic>.pdf`, add it to the table above and this class’s `downloads` list in the root `index.json`, then run `python3 scripts/validate.py` from the repository root. Keep all parts of this class together in this folder. Editable document source files can be placed in a `source/` subfolder when supplied.
+Add the next PDF to `downloads/` using a numbered name such as `part-02-<topic>.pdf`, add it to the table above and this class’s `downloads` list in the root `index.json`, then run `python3 scripts/update_contents.py` from the repository root to validate and refresh the table of contents. Keep all parts of this class together in this folder. Editable document source files can be placed in a `source/` subfolder when supplied.

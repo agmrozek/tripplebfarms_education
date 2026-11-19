@@ -4,6 +4,14 @@ Free farming and homesteading lessons from Tripple B Farms in Raber, Michigan.
 
 This repository is the source for lesson text, printable PDFs, worksheets, and other learning materials. The farm website will present the lessons and link to downloads hosted in this repository. Visitors do not need a GitHub account to download public files.
 
+<!-- PUBLISHED-LESSONS:START -->
+## Table of Contents
+
+| Class / lesson | Topic | Published PDFs |
+| --- | --- | --- |
+| [Agronomy Fundamentals](lessons/agronomy-fundamentals/README.md) | Soil & Compost | [Part 1 — Soil Science & Farm Management (PDF)](lessons/agronomy-fundamentals/downloads/part-01-soil-science-and-farm-management.pdf) |
+<!-- PUBLISHED-LESSONS:END -->
+
 ## Organization
 
 ```text
@@ -13,6 +21,7 @@ lessons/<lesson-id>/downloads/    Published PDFs and worksheets
 lessons/<lesson-id>/source/       Editable source files for those documents
 templates/lesson.md               Starting point for a new lesson
 scripts/validate.py              Check the index and linked files
+scripts/update_contents.py       Update the table of contents from the index
 ```
 
 Only lessons listed in `index.json` are intended for the website. The first class is [Agronomy Fundamentals](lessons/agronomy-fundamentals/README.md), beginning with Part 1: Soil Science & Farm Management. Multiple PDFs for the same class belong together in one class folder and one index entry, with a numbered download for each part. Files committed anywhere in this public repository remain publicly accessible, even if they are not in the index.
@@ -23,7 +32,9 @@ Only lessons listed in `index.json` are intended for the website. The first clas
 2. Copy `templates/lesson.md` to that folder as `README.md` and write the lesson.
 3. Put finished PDFs in `downloads/` and their editable source files in `source/`.
 4. Add an entry to `index.json`, choosing a topic from its `topics` list. Use paths relative to this repository, not local computer paths.
-5. Run `python3 scripts/validate.py`, review the changes, and commit/push them to GitHub.
+5. Run `python3 scripts/update_contents.py` to validate the index and refresh the table of contents, then review and commit/push the changes to GitHub.
+
+When adding another PDF to an existing class, append it to that class’s `downloads` list in `index.json` and run the same command. The table of contents lists only published classes/lessons and their available PDFs. Do not edit the generated table directly; edit the index instead. Check it without changing files with `python3 scripts/update_contents.py --check`.
 
 Each published lesson entry uses this structure (example only; the files must exist before adding it):
 
