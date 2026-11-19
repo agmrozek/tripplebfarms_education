@@ -2,7 +2,7 @@
 
 Free farming and homesteading lessons from Tripple B Farms in Raber, Michigan.
 
-This repository is the source for lesson text, printable PDFs, worksheets, and other learning materials. The farm website will present the lessons and link to downloads hosted in this repository. Visitors do not need a GitHub account to download public files.
+This repository is the source for lesson text, printable PDFs, worksheets, and other learning materials. Visit [Farm Learning](https://www.tripplebfarms.com/education) to browse classes on the farm website. Lesson downloads are hosted directly in this repository. Visitors do not need a GitHub account to download public files.
 
 <!-- PUBLISHED-LESSONS:START -->
 ## Table of Contents
@@ -56,13 +56,13 @@ Each published lesson entry uses this structure (example only; the files must ex
 
 ## Website integration
 
-The future Farm Learning section can read `index.json` at build time and generate its topic and lesson pages. Download links must use the GitHub repository rather than copying the PDFs into the website deployment. For example, a file committed on `main` can be downloaded from:
+The Farm Learning section reads a reviewed snapshot of `index.json` at build time and generates the library and class pages. Download links must use the GitHub repository rather than copying the PDFs into the website deployment. For example, a file committed on `main` can be downloaded from:
 
 ```text
 https://github.com/agmrozek/tripplebfarms_education/raw/refs/heads/main/lessons/<lesson-id>/downloads/<filename>.pdf
 ```
 
-Use an exact Git commit instead of `main` when publishing a version that must retain identical materials. The website integration has not been built or published yet.
+Use an exact Git commit instead of `main` when publishing a version that must retain identical materials. The website is published at https://www.tripplebfarms.com/education. Repository changes become visible there after the website lesson snapshot is refreshed and rebuilt; GitHub updates do not automatically redeploy the website.
 
 Keep ordinary lesson PDFs reasonably small. Store large videos in the existing video/media hosting and link to them from lessons. Do not add passwords, API keys, student information, private farm records, or third-party documents without permission to redistribute them.
 

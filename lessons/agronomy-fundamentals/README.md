@@ -2,6 +2,8 @@
 
 A multipart class on soil science and farm management, with practical exercises for farms in Michigan’s Upper Peninsula. Materials are available free of charge.
 
+[Explore this class on the farm website](https://www.tripplebfarms.com/education/agronomy-fundamentals).
+
 ## Class materials
 
 | Lesson | Title | Download |
