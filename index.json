@@ -40,8 +40,22 @@
       "downloads": [
         {
           "label": "Part 1 — Soil Science & Farm Management (PDF)",
-          "file": "lessons/agronomy-fundamentals/downloads/part-01-soil-science-and-farm-management.pdf"
+          "file": "lessons/agronomy-fundamentals/downloads/part-01-soil-science-and-farm-management.pdf",
+          "summary": "An introduction to soil formation, texture, pore space, pH, and soil biology. Includes a three-site field lab, an observation record, and review questions with answers.",
+          "pages": 3
         }
+      ],
+      "audience": "Livestock owners, pasture managers, and beginning agronomy students.",
+      "overview": [
+        "Understand the soil beneath your farm and how it supports plant growth, animals, and everyday management decisions. This class brings core soil science together with practical observations for Michigan’s Upper Peninsula.",
+        "Begin with Part 1, then return here as more materials are added to the class. Each PDF is free to read, download, and print."
+      ],
+      "learning_objectives": [
+        "Understand the factors that form soil.",
+        "Compare sand, silt, and clay, and distinguish soil texture from structure.",
+        "Explain how soil pore space affects water, oxygen, and roots.",
+        "Understand the basics of soil pH and nutrient availability.",
+        "Make structured observations of soils in pasture, woodland, and open fields."
       ]
     }
   ]
