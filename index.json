@@ -157,6 +157,77 @@
         "Adapt grazing and stored-feed plans through an Upper Peninsula year.",
         "Investigate pasture thinning and match management changes to the cause."
       ]
+    },
+    {
+      "id": "livestock-nutrition-fundamentals",
+      "title": "Livestock Nutrition Fundamentals",
+      "topic": "animals",
+      "summary": "Eight lessons on cattle nutrition, connecting forage digestion, feed quality, and animal needs. Learn to interpret hay tests, compare feeds, and work through a seasonal feeding plan.",
+      "lesson_file": "lessons/livestock-nutrition-fundamentals/README.md",
+      "downloads": [
+        {
+          "label": "Lesson 1 — How Cattle Digest Forage (PDF)",
+          "file": "lessons/livestock-nutrition-fundamentals/downloads/part-01-how-cattle-digest-forage.pdf",
+          "summary": "Understand the four stomach compartments, rumination, and the microbes that turn forage into usable nutrients. Connect forage structure and feed changes with rumen function.",
+          "pages": 2
+        },
+        {
+          "label": "Lesson 2 — Dry Matter and Feed Intake (PDF)",
+          "file": "lessons/livestock-nutrition-fundamentals/downloads/part-02-dry-matter-and-feed-intake.pdf",
+          "summary": "Compare pasture, hay, and supplements on a dry-matter basis, distinguishing feed offered, feed consumed, and inventory used. Includes worked intake and feeding-loss calculations.",
+          "pages": 2
+        },
+        {
+          "label": "Lesson 3 — Energy, Protein, and Fiber (PDF)",
+          "file": "lessons/livestock-nutrition-fundamentals/downloads/part-03-energy-protein-and-fiber.pdf",
+          "summary": "Interpret energy, crude protein, and fiber measures on a cattle feed report, and explore how forage quality and intake together affect nutrient supply.",
+          "pages": 2
+        },
+        {
+          "label": "Lesson 4 — Reading a Hay Test (PDF)",
+          "file": "lessons/livestock-nutrition-fundamentals/downloads/part-04-reading-a-hay-test.pdf",
+          "summary": "Define and sample a hay lot, interpret as-fed and dry-matter report values, and compare hay purchases by dry matter and estimated energy supplied.",
+          "pages": 2
+        },
+        {
+          "label": "Lesson 5 — Water, Minerals, and Vitamins (PDF)",
+          "file": "lessons/livestock-nutrition-fundamentals/downloads/part-05-water-minerals-and-vitamins.pdf",
+          "summary": "Explore dependable water access, mineral delivery, vitamin sources, and species differences. Includes a worked example of tracking mineral disappearance.",
+          "pages": 2
+        },
+        {
+          "label": "Lesson 6 — Feeding Cattle at Different Life Stages (PDF)",
+          "file": "lessons/livestock-nutrition-fundamentals/downloads/part-06-feeding-cattle-at-different-life-stages.pdf",
+          "summary": "Relate maintenance, growth, pregnancy, and lactation to feeding needs. Use body condition and feeding records to investigate changes and plan feeding groups.",
+          "pages": 2
+        },
+        {
+          "label": "Lesson 7 — Supplementation and Ration Arithmetic (PDF)",
+          "file": "lessons/livestock-nutrition-fundamentals/downloads/part-07-supplementation-and-ration-arithmetic.pdf",
+          "summary": "Identify a nutrient shortfall, calculate a possible supplement contribution, account for displaced forage, and compare costs within the whole diet.",
+          "pages": 2
+        },
+        {
+          "label": "Lesson 8 — A Winter Feeding Plan for Cedar Run (PDF)",
+          "file": "lessons/livestock-nutrition-fundamentals/downloads/part-08-a-winter-feeding-plan-for-cedar-run.pdf",
+          "summary": "Bring hay inventory, nutrient supply, cold-weather conditions, feeding access, and spring turnout together in a fictional farm’s winter feeding case.",
+          "pages": 2
+        }
+      ],
+      "audience": "Beginning cattle owners, livestock keepers, and homesteaders learning the foundations of forage-based feeding.",
+      "overview": [
+        "Build an understanding of how cattle use forage and how feed quantity, quality, and access affect nutrition. These eight lessons progress from rumen digestion and dry matter to feed reports, life stages, supplementation, and winter planning.",
+        "Each lesson is a separate two-page PDF, free to read, download, and print. The class connects with Agronomy Fundamentals and Pasture and Grazing Fundamentals, following the link from soil to forage to animal nutrition.",
+        "Cedar Run Farm, its feed values, and its ration calculations are fictional teaching examples. The lessons focus on cattle; requirements and mineral suitability differ between livestock species. Worked examples illustrate methods rather than prescribe a ration for a real herd."
+      ],
+      "learning_objectives": [
+        "Explain how cattle digest forage and why feed structure matters.",
+        "Convert feed amounts between as-fed and dry-matter bases.",
+        "Interpret energy, protein, fiber, and hay-test measurements.",
+        "Understand water access and the role of minerals and vitamins in a feeding program.",
+        "Relate feeding needs to life stage, body condition, and actual intake.",
+        "Work through supplement comparisons and a winter hay inventory example."
+      ]
     }
   ]
 }
